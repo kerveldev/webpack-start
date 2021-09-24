@@ -1,1 +1,1 @@
-Cascaron para aplicaciones con webpack.
+Cascaron para aplicaciones WEB con webpack.
